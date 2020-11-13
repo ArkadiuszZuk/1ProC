@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.PersGeg {
+    margin-left: 5px;
+    display: table;
+}
+
+.ja {
+
+}
+
+.ja img {
+    width: 250px;
+}
+
+.icon img,.icon {
+    height: 15px;
+}
+
+.hobby {
+    width: 100px;
+}
+
